@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WoigZFq8Yr1jhEnLyVesaF8dWdhdd9clJx8yc1w387DHlxXyiyIuoqRJyUvEFcKXXCIphhSJSzoP+1PlWI9jww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\INSUAHM\\source\\repos\\HttpClientFactoryDemo\\HttpClientFactoryDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\INSUAHM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
